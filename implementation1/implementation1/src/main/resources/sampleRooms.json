@@ -1,0 +1,14 @@
+{
+  "RoomA": {
+    "capacity": 50,
+    "computerCount": 10,
+    "hasWhiteboard": true,
+    "hasProjector": true
+  },
+  "RoomB": {
+    "capacity": 30,
+    "computerCount": 5,
+    "hasWhiteboard": false,
+    "hasProjector": true
+  }
+}
