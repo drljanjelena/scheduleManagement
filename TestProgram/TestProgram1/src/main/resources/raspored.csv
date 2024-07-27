@@ -1,0 +1,404 @@
+room,Predmet,Tip,Nastavnik,Grupe,Dan,Termin,startDate,endDate
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,101,UTO,11:15-13,01.10.2023.,20.01.2024.
+Rg07 (u),Uvod u programiranje,D,Brnabic Mateja,101,PON,13:15-15,01.10.2023.,20.01.2024.
+Raf02 (u),Uvod u programiranje,V,Tomic Milan,101,UTO,13:15-15,01.10.2023.,20.01.2024.
+Raf21 (a),Diskretne strukture,V,Jeremic Adrijana,"101, 102, 103",UTO,17:15-20,01.10.2023.,20.01.2024.
+Raf06 (a),Diskretne strukture,P,Jovanovic Irena,"101, 102, 103",SRE,16:15-18,01.10.2023.,20.01.2024.
+Raf21 (a),Engleski 1,P,Cuk Bojana,"101, 102, 103",UTO,15:15-17,01.10.2023.,20.01.2024.
+Raf20 (a),Linearna algebra i analiticka geometrija,P,Jovanovic Jelena,"101, 102, 103",SRE,18:15-21,01.10.2023.,20.01.2024.
+Raf20 (a),Linearna algebra i analiticka geometrija,V,Jovanovic Jelena,"101, 102, 103",?ET,18:15-21,01.10.2023.,20.01.2024.
+Kolarac2,Uvod u programiranje,P,Urosevic Dragan,"101, 102, 103",PON,11:15-13,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,102,PON,13:15-15,01.10.2023.,20.01.2024.
+Rg07 (u),Uvod u programiranje,D,Brnabic Mateja,102,PON,15:15-17,01.10.2023.,20.01.2024.
+Raf04 (u),Uvod u programiranje,V,Tomic Milan,102,CET,15:15-17,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,103,CET,13:15-15,01.10.2023.,20.01.2024.
+Raf07 (u),Uvod u programiranje,D,Matovic Vanja,103,CET,15:15-17,01.10.2023.,20.01.2024.
+Raf07 (u),Uvod u programiranje,V,Tomic Milan,103,PON,14:15-16,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,104,PON,15:15-17,01.10.2023.,20.01.2024.
+Raf05 (u),Uvod u programiranje,D,Matovic Vanja,104,SRE,10:15-12,01.10.2023.,20.01.2024.
+Raf05 (u),Uvod u programiranje,V,Jovanovic Mladen,104,SRE,12:15-14,01.10.2023.,20.01.2024.
+Kolarac3,Linearna algebra i analiticka geometrija,P,Gardasevic Filipovic Milanka,"104, 105",SRE,16:15-19,01.10.2023.,20.01.2024.
+Raf20 (a),Diskretne strukture,P,Jovanovic Irena,"104, 105, 106",UTO,15:15-17,01.10.2023.,20.01.2024.
+Raf20 (a),Diskretne strukture,V,Jeremic Adrijana,"104, 105, 106",PET,18:15-21,01.10.2023.,20.01.2024.
+Raf21 (a),Uvod u programiranje,P,Mladenovic Marko,"104, 105, 106",?ET,13:15-15,01.10.2023.,20.01.2024.
+Kolarac3,Linearna algebra i analiticka geometrija,V,Jerotijevic Marija,"104, 107, 112",UTO,17:15-20,01.10.2023.,20.01.2024.
+Raf11 (a),Engleski 1,P,Cuk Bojana,"104, 112",PON,17:15-19,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,105,?ET,11:15-13,01.10.2023.,20.01.2024.
+Raf02 (u),Uvod u programiranje,D,Stojanovic Mihajlo,105,UTO,18:15-20,01.10.2023.,20.01.2024.
+Rg07 (u),Uvod u programiranje,V,Jovanovic Mladen,105,UTO,13:15-15,01.10.2023.,20.01.2024.
+Raf20 (a),Linearna algebra i analiticka geometrija,V,Jerotijevic Marija,"105, 106",PET,15:15-18,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,106,SRE,13:15-15,01.10.2023.,20.01.2024.
+Rg02 (u),Uvod u programiranje,D,Stojanovic Mihajlo,106,?ET,15:15-17,01.10.2023.,20.01.2024.
+Raf07 (u),Uvod u programiranje,V,Jovanovic Mladen,106,SRE,10:15-12,01.10.2023.,20.01.2024.
+Kolarac3,Engleski 1,P,Cuk Bojana,"106, 107",UTO,13:15-15,01.10.2023.,20.01.2024.
+Raf20 (a),Linearna algebra i analiticka geometrija,P,Gardasevic Filipovic Milanka,"106, 108",PON,17:15-20,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,107,PON,11:15-13,01.10.2023.,20.01.2024.
+Raf04 (u),Uvod u programiranje,D,Dejanovic Lazar,107,PET,18:15-20,01.10.2023.,20.01.2024.
+Raf05 (u),Uvod u programiranje,V,Najdic Jefimija,107,PON,09:15-11,01.10.2023.,20.01.2024.
+Raf21 (a),Diskretne strukture,P,Jovanovic Irena,"107, 108, 109",SRE,13:15-15,01.10.2023.,20.01.2024.
+Raf21 (a),Diskretne strukture,V,Jeremic Adrijana,"107, 108, 109",PET,15:15-18,01.10.2023.,20.01.2024.
+Raf20 (a),Uvod u programiranje,P,Mladenovic Marko,"107, 108, 109",?ET,16:15-18,01.10.2023.,20.01.2024.
+Raf20 (a),Linearna algebra i analiticka geometrija,P,Gardasevic Filipovic Milanka,"107, 109, 110",?ET,13:15-16,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,108,UTO,13:15-15,01.10.2023.,20.01.2024.
+Raf07 (u),Uvod u programiranje,D,Dejanovic Lazar,108,?ET,18:15-20,01.10.2023.,20.01.2024.
+Rg07 (u),Uvod u programiranje,V,Najdic Jefimija,108,UTO,11:15-13,01.10.2023.,20.01.2024.
+Raf21 (a),Engleski 1,P,Cuk Bojana,"108, 109",PET,10:15-12,01.10.2023.,20.01.2024.
+Raf21 (a),Linearna algebra i analiticka geometrija,V,Jerotijevic Marija,"108, 109",PET,12:15-15,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,109,SRE,11:15-13,01.10.2023.,20.01.2024.
+Raf03 (u),Uvod u programiranje,D,Arsenovic Arsen,109,UTO,17:15-19,01.10.2023.,20.01.2024.
+Raf03 (u),Uvod u programiranje,V,Redzic Nikola Jovan,109,UTO,19:15-21,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,110,UTO,15:15-17,01.10.2023.,20.01.2024.
+Raf03 (u),Uvod u programiranje,D,Radenkovic Zarko,110,PON,19:15-21,01.10.2023.,20.01.2024.
+Rg07 (u),Uvod u programiranje,V,Redzic Nikola Jovan,110,SRE,13:15-15,01.10.2023.,20.01.2024.
+Raf06 (a),Engleski 1,P,Cuk Bojana,"110, 111",UTO,17:15-19,01.10.2023.,20.01.2024.
+Raf21 (a),Diskretne strukture,P,Jovanovic Irena,"110, 111, 112, 113",UTO,13:15-15,01.10.2023.,20.01.2024.
+Kolarac3,Diskretne strukture,V,Jeremic Adrijana,"110, 111, 112, 113",PON,12:15-15,01.10.2023.,20.01.2024.
+Raf21 (a),Uvod u programiranje,P,Mladenovic Marko,"110, 111, 112, 113",SRE,19:15-21,01.10.2023.,20.01.2024.
+Raf21 (a),Linearna algebra i analiticka geometrija,V,Jerotijevic Marija,"110, 111, 113",PON,15:15-18,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,111,PON,09:15-11,01.10.2023.,20.01.2024.
+Raf01 (u),Uvod u programiranje,D,Radenkovic Zarko,111,?ET,17:15-19,01.10.2023.,20.01.2024.
+Rg07 (u),Uvod u programiranje,V,Najdic Jefimija,111,?ET,13:15-15,01.10.2023.,20.01.2024.
+Kolarac3,Linearna algebra i analiticka geometrija,P,Gardasevic Filipovic Milanka,"111, 112, 113",PET,14:15-17,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,112,SRE,15:15-17,01.10.2023.,20.01.2024.
+Raf03 (u),Uvod u programiranje,D,Arsenovic Arsen,112,UTO,15:15-17,01.10.2023.,20.01.2024.
+Raf07 (u),Uvod u programiranje,V,Redzic Nikola Jovan,112,?ET,11:15-13,01.10.2023.,20.01.2024.
+Raf04 (u),Poslovne aplikacije,V,Mijatovic Igor,113,UTO,09:15-11,01.10.2023.,20.01.2024.
+Rg07 (u),Uvod u programiranje,D,Radenkovic Zarko,113,PET,12:15-14,01.10.2023.,20.01.2024.
+Raf03 (u),Uvod u programiranje,V,Najdic Jefimija,113,SRE,17:15-19,01.10.2023.,20.01.2024.
+Raf21 (a),Engleski 1,P,Cuk Bojana,"113, 105",PON,19:15-21,01.10.2023.,20.01.2024.
+Raf12 (MD),Crtanje i slikanje,P,Malesevic Nenad,1d1,?ET,15:15-18,01.10.2023.,20.01.2024.
+Raf12 (MD),Crtanje i slikanje,V,Stojanovic Visnja,1d1,SRE,14:15-17,01.10.2023.,20.01.2024.
+Raf14 (MD),Osnovi oblikovanja,V,Jeremic Lana,"1d1, 1d2",PON,14:15-17,01.10.2023.,20.01.2024.
+Raf14 (MD),Osnovi projektovanja,V,Stojanovic Visnja,"1d1, 1d2",PET,09:15-12,01.10.2023.,20.01.2024.
+Kolarac3,Engleski 1,P,Cuk Bojana,"1d1, 1d2, 1d3, 1d4",PET,12:15-14,01.10.2023.,20.01.2024.
+Raf20 (a),Uvod u muzicku produkciju,PiV,Medic Ivana,"1d1, 1d2, 1d3, 1d4",SRE,09:15-11,01.10.2023.,20.01.2024.
+Raf15 (MD),Osnovi oblikovanja,P,Malesevic Nenad,"1d1, 1d3",UTO,15:15-18,01.10.2023.,20.01.2024.
+Raf15 (MD),Osnovi projektovanja,P,Telarovic Rosana,"1d1, 1d3",PON,11:15-14,01.10.2023.,20.01.2024.
+Raf12 (MD),Crtanje i slikanje,P,Malesevic Nenad,1d2,PON,09:15-12,01.10.2023.,20.01.2024.
+Raf12 (MD),Crtanje i slikanje,V,Stojanovic Visnja,1d2,SRE,11:15-14,01.10.2023.,20.01.2024.
+Raf15 (MD),Osnovi oblikovanja,P,Malesevic Nenad,"1d2, 1d4",?ET,12:15-15,01.10.2023.,20.01.2024.
+Raf15 (MD),Osnovi projektovanja,P,Telarovic Rosana,"1d2, 1d4",UTO,09:15-12,01.10.2023.,20.01.2024.
+Raf12 (MD),Crtanje i slikanje,P,Malesevic Nenad,"1d3, 1d4",?ET,09:15-12,01.10.2023.,20.01.2024.
+Raf12 (MD),Crtanje i slikanje,V,Stojanovic Visnja,"1d3, 1d4",UTO,12:15-15,01.10.2023.,20.01.2024.
+Raf16 (MD),Osnovi oblikovanja,V,Jeremic Lana,"1d3, 1d4",PON,17:15-20,01.10.2023.,20.01.2024.
+Raf16 (MD),Osnovi projektovanja,V,Stojanovic Visnja,"1d4, 1d3",PON,14:15-17,01.10.2023.,20.01.2024.
+Raf03 (u),Administracija i odrzavanje sistema 1,PiV,Lale Sinisa,1s1,PET,09:15-12,01.10.2023.,20.01.2024.
+Raf03 (u),Administracija i odrzavanje sistema 1,PiV,Lale Sinisa,1s1,PET,12:15-15,01.10.2023.,20.01.2024.
+Raf01 (u),Organizacija racunara,V,Vasiljkovic Sanja,1s1,SRE,19:15-21,01.10.2023.,20.01.2024.
+Raf01 (u),Osnovi programiranja,V,Zgonjanin Nikola,1s1,PON,09:15-12,01.10.2023.,20.01.2024.
+Raf05 (u),Praktikum iz arhitekture racunara i operativnih sistema,V,Radulovic Natasa,1s1,?ET,13:15-15,01.10.2023.,20.01.2024.
+Raf11 (a),Engleski 1,P,Vrbica-Matejic Vera,"1s1, 1s2",UTO,17:15-19,01.10.2023.,20.01.2024.
+Raf11 (a),Organizacija racunara,P,Mirkovic Bogdan,"1s1, 1s2",SRE,14:15-17,01.10.2023.,20.01.2024.
+Raf11 (a),Osnovi programiranja,P,Mirkovic Bogdan,"1s1, 1s2",SRE,17:15-19,01.10.2023.,20.01.2024.
+Raf03 (u),Administracija i odrzavanje sistema 1,PiV,Lale Sinisa,1s2,?ET,09:15-12,01.10.2023.,20.01.2024.
+Raf03 (u),Administracija i odrzavanje sistema 1,PiV,Lale Sinisa,1s2,?ET,12:15-15,01.10.2023.,20.01.2024.
+Raf04 (u),Organizacija racunara,V,Vasiljkovic Sanja,1s2,UTO,19:15-21,01.10.2023.,20.01.2024.
+Raf02 (u),Osnovi programiranja,V,Zgonjanin Nikola,1s2,PET,11:15-14,01.10.2023.,20.01.2024.
+Raf01 (u),Praktikum iz arhitekture racunara i operativnih sistema,V,Radulovic Natasa,1s2,PET,09:15-11,01.10.2023.,20.01.2024.
+Raf02 (u),Administracija i odrzavanje sistema 1,PiV,Kostadinovic Miodrag,1s3,PON,12:15-15,01.10.2023.,20.01.2024.
+Raf02 (u),Administracija i odrzavanje sistema 1,PiV,Kostadinovic Miodrag,1s3,UTO,10:15-13,01.10.2023.,20.01.2024.
+Raf03 (u),Organizacija racunara,V,Radulovic Natasa,1s3,SRE,13:15-15,01.10.2023.,20.01.2024.
+Rg06 (u),Osnovi programiranja,V,Sijacic Dusan,1s3,?ET,16:15-19,01.10.2023.,20.01.2024.
+Raf02 (u),Praktikum iz arhitekture racunara i operativnih sistema,V,Radulovic Natasa,1s3,SRE,16:15-18,01.10.2023.,20.01.2024.
+Raf20 (a),Engleski 1,P,Vrbica-Matejic Vera,"1s3, 1s4",PON,09:15-11,01.10.2023.,20.01.2024.
+Raf10 (a),Organizacija racunara,P,Mirkovic Bogdan,"1s3, 1s4",UTO,13:15-16,01.10.2023.,20.01.2024.
+Raf10 (a),Osnovi programiranja,P,Mirkovic Bogdan,"1s3, 1s4",UTO,16:15-18,01.10.2023.,20.01.2024.
+Raf02 (u),Administracija i odrzavanje sistema 1,PiV,Kostadinovic Miodrag,1s4,?ET,13:15-16,01.10.2023.,20.01.2024.
+Raf02 (u),Administracija i odrzavanje sistema 1,PiV,Kostadinovic Miodrag,1s4,SRE,11:15-14,01.10.2023.,20.01.2024.
+Rg01 (u),Organizacija racunara,V,Radulovic Natasa,1s4,?ET,16:15-18,01.10.2023.,20.01.2024.
+Rg06 (u),Osnovi programiranja,V,Sijacic Dusan,1s4,PON,13:15-16,01.10.2023.,20.01.2024.
+Rg01 (u),Praktikum iz arhitekture racunara i operativnih sistema,V,Radulovic Natasa,1s4,?ET,18:15-20,01.10.2023.,20.01.2024.
+Raf04 (u),Algoritmi i strukture podataka,V,Jevtic Ivan,201,UTO,17:15-19,01.10.2023.,20.01.2024.
+Raf01 (u),Dizajn softvera,V,Andzic Dimitrije,201,UTO,14:15-17,01.10.2023.,20.01.2024.
+Raf07 (u),Inteligentni sistemi,V,Ciganovic Igor,201,UTO,11:15-14,01.10.2023.,20.01.2024.
+Kolarac3,Algoritmi i strukture podataka,P,Urosevic Dragan,"201, 202, 203",?ET,11:15-14,01.10.2023.,20.01.2024.
+Kolarac3,Dizajn softvera,P,Rakocevic Goran,"201, 202, 203",?ET,09:15-11,01.10.2023.,20.01.2024.
+Kolarac3,Inteligentni sistemi,P,Vasiljevic Jelena,"201, 202, 203",PON,15:15-18,01.10.2023.,20.01.2024.
+Raf21 (a),Napredna matematicka analiza,P,Gardasevic Filipovic Milanka,"201, 202, 203, 204, 205",SRE,11:15-13,01.10.2023.,20.01.2024.
+Kolarac2,Napredna matematicka analiza,V,Gardasevic Filipovic Milanka,"201, 202, 203, 204, 205",SRE,13:15-15,01.10.2023.,20.01.2024.
+Raf04 (u),Algoritmi i strukture podataka,V,Trajkovic Mihailo,202,SRE,17:15-19,01.10.2023.,20.01.2024.
+Raf02 (u),Dizajn softvera,V,Andzic Dimitrije,202,PET,18:15-21,01.10.2023.,20.01.2024.
+Raf07 (u),Inteligentni sistemi,V,Ciganovic Igor,202,PET,14:15-17,01.10.2023.,20.01.2024.
+Rg04 (u),Algoritmi i strukture podataka,V,Trajkovic Mihailo,203,UTO,17:15-19,01.10.2023.,20.01.2024.
+Raf04 (u),Dizajn softvera,V,Andzic Dimitrije,203,PET,15:15-18,01.10.2023.,20.01.2024.
+Raf01 (u),Inteligentni sistemi,V,Ciganovic Igor,203,PET,11:15-14,01.10.2023.,20.01.2024.
+Raf02 (u),Algoritmi i strukture podataka,V,Jevtic Ivan,204,SRE,18:15-20,01.10.2023.,20.01.2024.
+Raf03 (u),Dizajn softvera,V,Jovanoski Mihail,204,UTO,09:15-12,01.10.2023.,20.01.2024.
+Raf04 (u),Inteligentni sistemi,V,Tomic Milan,204,?ET,17:15-20,01.10.2023.,20.01.2024.
+Raf20 (a),Algoritmi i strukture podataka,P,Urosevic Dragan,"204, 205, 206",SRE,15:15-18,01.10.2023.,20.01.2024.
+Kolarac1,Dizajn softvera,P,Rakocevic Goran,"204, 205, 206",?ET,14:15-16,01.10.2023.,20.01.2024.
+Kolarac1,Inteligentni sistemi,P,Vasiljevic Jelena,"204, 205, 206",?ET,11:15-14,01.10.2023.,20.01.2024.
+Rg07 (u),Algoritmi i strukture podataka,V,Prokic Aleksa,205,PET,10:15-12,01.10.2023.,20.01.2024.
+Rg02 (u),Dizajn softvera,V,Jovanoski Mihail,205,SRE,18:15-21,01.10.2023.,20.01.2024.
+Rg07 (u),Inteligentni sistemi,V,Tomic Milan,205,PET,14:15-17,01.10.2023.,20.01.2024.
+Raf01 (u),Algoritmi i strukture podataka,V,Prokic Aleksa,206,SRE,13:15-15,01.10.2023.,20.01.2024.
+Raf04 (u),Dizajn softvera,V,Jovanoski Mihail,206,PET,09:15-12,01.10.2023.,20.01.2024.
+Raf07 (u),Inteligentni sistemi,V,Tomic Milan,206,PON,11:15-14,01.10.2023.,20.01.2024.
+Kolarac3,Napredna matematicka analiza,P,Gardasevic Filipovic Milanka,"206, 223",UTO,09:15-11,01.10.2023.,20.01.2024.
+Kolarac3,Napredna matematicka analiza,V,Gardasevic Filipovic Milanka,"206, 223",UTO,11:15-13,01.10.2023.,20.01.2024.
+Rg02 (u),Algoritmi i strukture podataka,V,Jevtic Ivan,221,UTO,19:15-21,01.10.2023.,20.01.2024.
+Rg01 (u),Signali i sistemi,V,Sandic-Stankovic Dragana,221,PON,17:15-20,01.10.2023.,20.01.2024.
+Kolarac2,Napredna matematicka analiza,P,Gardasevic Filipovic Milanka,"221, 222",PON,15:15-17,01.10.2023.,20.01.2024.
+Kolarac1,Napredna matematicka analiza,V,Gardasevic Filipovic Milanka,"221, 222",?ET,09:15-11,01.10.2023.,20.01.2024.
+Raf11 (a),Osnovi elektronike,V,Markovic Petar,"221, 222",?ET,14:15-17,01.10.2023.,20.01.2024.
+Raf21 (a),Algoritmi i strukture podataka,P,Mladenovic Marko,"221, 222, 223",SRE,16:15-19,01.10.2023.,20.01.2024.
+Raf21 (a),Osnovi elektronike,P,Karbunar Lazar,"221, 222, 223",PON,13:15-15,01.10.2023.,20.01.2024.
+Kolarac3,Signali i sistemi,P,Babic Djorde,"221, 222, 223",SRE,13:15-16,01.10.2023.,20.01.2024.
+Raf05 (u),Algoritmi i strukture podataka,V,Trajkovic Mihailo,222,PON,19:15-21,01.10.2023.,20.01.2024.
+Raf02 (u),Signali i sistemi,V,Sandic-Stankovic Dragana,222,?ET,17:15-20,01.10.2023.,20.01.2024.
+Rg02 (u),Algoritmi i strukture podataka,V,Prokic Aleksa,223,UTO,17:15-19,01.10.2023.,20.01.2024.
+Raf06 (a),Osnovi elektronike,V,Markovic Petar,223,UTO,14:15-17,01.10.2023.,20.01.2024.
+Raf04 (u),Signali i sistemi,V,Radulovic Natasa,223,PON,17:15-20,01.10.2023.,20.01.2024.
+Raf13 (MD),Fotografija,V,Topuzovic Filip,2d1,PET,11:15-13,01.10.2023.,20.01.2024.
+Raf13 (MD),Fotografija,P,Malesevic Nenad,"2d1, 2d2, 2d3",UTO,09:15-12,01.10.2023.,20.01.2024.
+Raf14 (MD),Pismo i tipografija,P,Stojanovic Danica,"2d1, 2d2, 2d3, 2d4",UTO,12:15-14,01.10.2023.,20.01.2024.
+Raf14 (MD),Pismo i tipografija,V,Stojanovic Danica,"2d1, 2d2, 2d3, 2d4",SRE,12:15-15,01.10.2023.,20.01.2024.
+Raf14 (MD),Modelovanje,P,Kukic  Rastko,"2d1, 2d2, 2d3, 2d4",PON,09:15-12,01.10.2023.,20.01.2024.
+Raf14 (MD),Modelovanje,V,Jonic Teodora,"2d1, 2d2, 2d3, 2d4",SRE,09:15-11,01.10.2023.,20.01.2024.
+Raf10 (a),Istorija umetnosti,PiV,Stankovic Maja,"2d1, 2d2, 2d3, 2d4, 2d5, 2d6",?ET,14:15-16,01.10.2023.,20.01.2024.
+Raf10 (a),Istorija umetnosti,PiV,Stankovic Maja,"2d1, 2d2, 2d3, 2d4, 2d5, 2d6",?ET,16:15-18,01.10.2023.,20.01.2024.
+Raf13 (MD),Fotografija,V,Jeremic Lana,2d2,PET,15:15-17,01.10.2023.,20.01.2024.
+Raf13 (MD),Fotografija,V,Jeremic Lana,2d3,SRE,15:15-17,01.10.2023.,20.01.2024.
+Raf13 (MD),Fotografija,V,Topuzovic Filip,2d4,PET,09:15-11,01.10.2023.,20.01.2024.
+Raf13 (MD),Fotografija,P,Malesevic Nenad,"2d4, 2d5, 2d6",PON,12:15-15,01.10.2023.,20.01.2024.
+Raf13 (MD),Fotografija,V,Topuzovic Filip,2d5,SRE,09:15-11,01.10.2023.,20.01.2024.
+Raf16 (MD),Pismo i tipografija,P,Stojanovic Danica,"2d5, 2d6",PET,16:15-18,01.10.2023.,20.01.2024.
+Raf16 (MD),Pismo i tipografija,V,Stojanovic Danica,"2d5, 2d6",SRE,15:15-18,01.10.2023.,20.01.2024.
+Raf16 (MD),Modelovanje,P,Kukic  Rastko,"2d5, 2d6",SRE,11:15-14,01.10.2023.,20.01.2024.
+Raf16 (MD),Modelovanje,V,Jonic Teodora,"2d5, 2d6",?ET,19:15-21,01.10.2023.,20.01.2024.
+Raf13 (MD),Fotografija,V,Jeremic Lana,2d6,PET,13:15-15,01.10.2023.,20.01.2024.
+Raf07 (u),Dizajn i razvoj veb strana,V,Sijacic Dusan,2s1,PET,11:15-14,01.10.2023.,20.01.2024.
+Raf01 (u),Informacioni sistemi,V,Prvulovic Petar,2s1,PON,15:15-18,01.10.2023.,20.01.2024.
+Raf03 (u),Veb sistemi i tehnologije,P,Radosavljevic Nemanja,2s1,SRE,10:15-13,01.10.2023.,20.01.2024.
+Raf07 (u),Veb sistemi i tehnologije,V,Sijacic Dusan,2s1,PET,09:15-11,01.10.2023.,20.01.2024.
+Raf20 (a),Dizajn i razvoj veb strana,P,Popovic Snezana,"2s1, 2s2, 2s3a, 2s3b",SRE,13:15-15,01.10.2023.,20.01.2024.
+Raf20 (a),Informacioni sistemi,P,Mirkovic Bogdan,"2s1, 2s2, 2s3a, 2s3b",UTO,18:15-21,01.10.2023.,20.01.2024.
+Raf10 (a),Engleski 3,PiV,Vrbica-Matejic Vera,"2s1, 2s3a",PET,14:15-16,01.10.2023.,20.01.2024.
+Raf20 (a),Engleski 3,PiV,Vrbica-Matejic Vera,"2s1, 2s3a",PON,11:15-13,01.10.2023.,20.01.2024.
+Raf02 (u),Dizajn i razvoj veb strana,V,Sijacic Dusan,2s2,UTO,15:15-18,01.10.2023.,20.01.2024.
+Raf02 (u),Informacioni sistemi,V,Prvulovic Petar,2s2,PON,09:15-12,01.10.2023.,20.01.2024.
+Raf05 (u),Veb sistemi i tehnologije,P,Radosavljevic Nemanja,2s2,?ET,10:15-13,01.10.2023.,20.01.2024.
+Raf03 (u),Veb sistemi i tehnologije,V,Sijacic Dusan,2s2,SRE,15:15-17,01.10.2023.,20.01.2024.
+Raf20 (a),Engleski 3,PiV,Vrbica-Matejic Vera,"2s2, 2s3b",UTO,13:15-15,01.10.2023.,20.01.2024.
+Raf20 (a),Engleski 3,PiV,Vrbica-Matejic Vera,"2s2, 2s3b",PON,13:15-15,01.10.2023.,20.01.2024.
+Raf02 (u),Dizajn i razvoj veb strana,V,Lazarevic Vukadin,"2s3a, 2s3b",PON,18:15-21,01.10.2023.,20.01.2024.
+Raf02 (u),Informacioni sistemi,V,Lazarevic Vukadin,"2s3a, 2s3b",PON,15:15-18,01.10.2023.,20.01.2024.
+Rg07 (u),Veb sistemi i tehnologije,P,Radosavljevic Nemanja,"2s3a, 2s3b",SRE,15:15-18,01.10.2023.,20.01.2024.
+Rg01 (u),Veb sistemi i tehnologije,V,Lazarevic Vukadin,"2s3a, 2s3b",SRE,18:15-20,01.10.2023.,20.01.2024.
+Raf07 (u),Skript jezici,V,Ciganovic Igor,301a,UTO,14:15-16,01.10.2023.,20.01.2024.
+Raf20 (a),Testiranje softvera,P,Dimic Surla Bojana,"301a, 301b, 302a, 302b",?ET,11:15-13,01.10.2023.,20.01.2024.
+Raf20 (a),Verovatnoca i statistika,P,Maric Nevena,"301a, 301b, 302a, 302b, 303, 304, 305",PET,09:15-11,01.10.2023.,20.01.2024.
+Kolarac2,Softverske komponente,P,Dimic Surla Bojana,"301a, 301b, 302a, 302b, 305, 306, 307a, 307b",SRE,16:15-18,01.10.2023.,20.01.2024.
+Raf20 (a),Programski prevodioci,P,Vujosevic Dusan,"301a, 301b, 302a, 303, 302b",UTO,11:15-13,01.10.2023.,20.01.2024.
+Raf20 (a),Skript jezici,P,Radenkovic Milos,"301a, 301b, 304, 305, 306, 307a, 307b, 322, 323",PET,11:15-13,01.10.2023.,20.01.2024.
+Raf07 (u),Programski prevodioci,V,Stojanovic Mihajlo,"301a, 302a",?ET,09:15-11,01.11.2023.,01.12.2023.
+Raf07 (u),Softverske komponente,V,Najdic Jefimija,"301a, 302a",UTO,09:15-11,01.11.2023.,01.12.2023.
+Raf04 (u),Testiranje softvera,V,Ivkovic Sava,"301a, 302a",SRE,09:15-11,01.11.2023.,01.12.2023.
+Raf05 (u),Verovatnoca i statistika,V,Maric Nevena,"301a, 302a",SRE,14:15-16,01.11.2023.,01.12.2023.
+Raf02 (u),Skript jezici,V,Ciganovic Igor,301b,SRE,14:15-16,01.11.2023.,01.12.2023.
+Raf01 (u),Programski prevodioci,V,Stojanovic Mihajlo,"301b, 302b",?ET,13:15-15,01.11.2023.,01.12.2023.
+Raf05 (u),Softverske komponente,V,Najdic Jefimija,"301b, 302b",PON,11:15-13,01.11.2023.,01.12.2023.
+Rg07 (u),Testiranje softvera,V,Ivkovic Sava,"301b, 302b",UTO,09:15-11,01.11.2023.,01.12.2023.
+Raf05 (u),Verovatnoca i statistika,V,Maric Nevena,"301b, 302b",SRE,18:15-20,01.11.2023.,01.12.2023.
+Raf09 (a),Upravljanje informacijama,P,Radenkovic Milos,"302a, 302b, 307a, 307b",UTO,14:15-16,01.11.2023.,01.12.2023.
+Raf01 (u),Upravljanje informacijama,V,Stojanovic Mihajlo,"302a, 302b, 307a, 307b",SRE,11:15-13,01.11.2023.,01.12.2023.
+Raf09 (a),Geometrijski algoritmi,P,Urosevic Dragan,303,?ET,14:15-16,01.11.2023.,01.12.2023.
+Raf09 (a),Geometrijski algoritmi,V,Urosevic Dragan,303,?ET,16:15-18,01.11.2023.,01.12.2023.
+Raf20 (a),Paralelni algoritmi,P,Rakocevic Goran,"303, 304, 305",PET,13:15-15,01.11.2023.,01.12.2023.
+Raf03 (u),Paralelni algoritmi,V,Jeremic Adrijana,"303, 304, 305",?ET,19:15-21,01.11.2023.,01.12.2023.
+Rg07 (u),Racunarska grafika,P,Masulovic Dragan,"303, 306",SRE,11:15-13,01.11.2023.,01.12.2023.
+Raf01 (u),Racunarska grafika,V,Dotlic Emilija,"303, 306",SRE,09:15-11,01.11.2023.,01.12.2023.
+Raf05 (u),Skript jezici,V,Ciganovic Igor,"304, 305",PON,13:15-15,01.11.2023.,01.12.2023.
+Raf21 (a),Programski prevodioci,P,Vujosevic Dusan,"304, 305, 306, 307a, 307b",?ET,17:15-19,01.11.2023.,01.12.2023.
+Raf09 (a),Sistemi u realnom vremenu,P,Jovanovic Milos,"304, 323",UTO,17:15-19,01.11.2023.,01.12.2023.
+Raf07 (u),Sistemi u realnom vremenu,V,Jovanovic Milos,"304, 323",PON,16:15-18,01.11.2023.,01.12.2023.
+Raf03 (u),Programski prevodioci,V,Stojanovic Mihajlo,305,UTO,12:15-14,01.11.2023.,01.12.2023.
+Rg01 (u),Verovatnoca i statistika,V,Maric Nevena,"305, 303, 307a",UTO,17:15-19,01.11.2023.,01.12.2023.
+Raf01 (u),Softverske komponente,V,Redzic Nikola Jovan,"305, 307a",?ET,15:15-17,01.11.2023.,01.12.2023.
+Rg07 (u),Programski prevodioci,V,Stojanovic Mihajlo,"306, 303",UTO,15:15-17,01.11.2023.,01.12.2023.
+Rg07 (u),Verovatnoca i statistika,V,Maric Nevena,"306, 304, 307b",?ET,15:15-17,01.11.2023.,01.12.2023.
+Raf02 (u),Skript jezici,V,Prvulovic Petar,"306, 307a",?ET,09:15-11,01.11.2023.,01.12.2023.
+Raf21 (a),Verovatnoca i statistika,P,Maric Nevena,"306, 307a, 307b, 321, 322, 323",?ET,11:15-13,01.11.2023.,01.12.2023.
+Raf05 (u),Softverske komponente,V,Redzic Nikola Jovan,"306, 307b",UTO,17:15-19,01.11.2023.,01.12.2023.
+Raf02 (u),Programski prevodioci,V,Stojanovic Mihajlo,"307a, 304, 307b",SRE,09:15-11,01.11.2023.,01.12.2023.
+Raf07 (u),Skript jezici,V,Prvulovic Petar,"307b, 323",SRE,13:15-15,01.11.2023.,01.12.2023.
+Raf05 (u),Povezivanje mreza,V,Milovic Njegovan,321,PON,17:15-19,01.11.2023.,01.12.2023.
+Raf09 (a),Virtuelizovani mrezni sistemi,P,Bojovic Petar,321,SRE,14:15-16,01.11.2023.,01.12.2023.
+Rg07 (u),Virtuelizovani mrezni sistemi,V,Zivanovic Marko,321,?ET,09:15-11,01.11.2023.,01.12.2023.
+Raf11 (a),Povezivanje mreza,P,Bojovic Petar,"321, 322",PON,15:15-17,01.11.2023.,01.12.2023.
+CET,Projektovanje racunarskih sistema,P,Radivojevic Mirjana,"321, 322",SRE,11:15-13,01.11.2023.,01.12.2023.
+Kolarac3,Primenjena vestacka inteligencija,P,Vasiljevic Jelena,"321, 322, 323",?ET,14:15-16,01.11.2023.,01.12.2023.
+Raf05 (u),Verovatnoca i statistika,V,Maric Nevena,"321, 323",SRE,16:15-18,01.11.2023.,01.12.2023.
+Raf05 (u),Primenjena vestacka inteligencija,V,Tomic Milan,"321, 323",UTO,15:15-17,01.11.2023.,01.12.2023.
+Rg01 (u),Skript jezici,V,Ciganovic Igor,322,SRE,16:15-18,01.11.2023.,01.12.2023.
+Raf04 (u),Verovatnoca i statistika,V,Maric Nevena,322,?ET,09:15-11,01.11.2023.,01.12.2023.
+Raf01 (u),Povezivanje mreza,V,Milovic Njegovan,322,PON,19:15-21,01.11.2023.,01.12.2023.
+Rg07 (u),Primenjena vestacka inteligencija,V,Tomic Milan,322,UTO,17:15-19,01.11.2023.,01.12.2023.
+CET,Projektovanje racunarskih sistema,V,Radivojevic Mirjana,"322, 321",SRE,09:15-11,01.11.2023.,01.12.2023.
+Raf10 (a),Sistemsko programiranje,P,Jovanovic Milos,323,PON,18:15-20,01.11.2023.,01.12.2023.
+Rg07 (u),Sistemsko programiranje,V,Jovanovic Milos,323,SRE,18:15-20,01.11.2023.,01.12.2023.
+Raf16 (MD),Multimedijalni projekti 1,P,Kukic  Rastko,3d1a,UTO,09:15-12,01.11.2023.,01.12.2023.
+Raf14 (MD),Multimedijalni projekti 1,V,Jonic Teodora,3d1a,?ET,16:15-19,01.11.2023.,01.12.2023.
+Raf13 (MD),Osnovi animacije,P,Djuric Milan,3d1a,?ET,11:15-13,01.11.2023.,01.12.2023.
+Raf15 (MD),Dizajn i informacione tehnologije 1,P,Topuzovic Filip,"3d1a, 3d1b",SRE,11:15-13,01.11.2023.,01.12.2023.
+Raf14 (MD),Dizajn i informacione tehnologije 1,V,Topuzovic Filip,"3d1a, 3d1b",?ET,13:15-14,01.11.2023.,01.12.2023.
+Raf14 (MD),Graficki projekti,P,Stojanovic Danica,"3d1a, 3d1b",PET,12:15-15,01.11.2023.,01.12.2023.
+Raf14 (MD),Graficki projekti,V,Stojanovic Danica,"3d1a, 3d1b",UTO,15:15-18,01.11.2023.,01.12.2023.
+Raf14 (MD),Osnovi animacije,V,Koturanovic Aleksandar,"3d1a, 3d1b",?ET,14:15-16,01.11.2023.,01.12.2023.
+Raf16 (MD),Multimedijalni projekti 1,P,Kukic  Rastko,3d1b,UTO,12:15-15,01.11.2023.,01.12.2023.
+Raf16 (MD),Multimedijalni projekti 1,V,Jonic Teodora,3d1b,UTO,18:15-21,01.11.2023.,01.12.2023.
+Raf13 (MD),Osnovi animacije,P,Djuric Milan,3d1b,PET,18:15-20,01.11.2023.,01.12.2023.
+Raf03 (u),IT servis menadzment,V,Pilipovic Dragoljub,3s1,PON,15:15-16,01.11.2023.,01.12.2023.
+Raf06 (a),Konfiguracija i odrzavanje IP mreza,P,Bojovic Petar,3s1,?ET,14:15-16,01.11.2023.,01.12.2023.
+Raf07 (u),Konfiguracija i odrzavanje IP mreza,V,Pernar Veljko,3s1,PON,09:15-11,01.11.2023.,01.12.2023.
+Raf06 (a),Uvod u administraciju IP mreza,P,Bojovic Petar,3s1,?ET,16:15-18,01.11.2023.,01.12.2023.
+Raf01 (u),Uvod u administraciju IP mreza,V,Zivanovic Marko,3s1,UTO,12:15-14,01.11.2023.,01.12.2023.
+Raf01 (u),Uvod u softversko inzenjerstvo,V,Prvulovic Petar,3s1,PON,12:15-15,01.11.2023.,01.12.2023.
+Raf09 (a),IT servis menadzment,P,Pilipovic Dragoljub,"3s1, 3s2",PON,16:15-18,01.11.2023.,01.12.2023.
+Raf11 (a),Uvod u softversko inzenjerstvo,P,Mladenovic Marko,"3s1, 3s2",UTO,15:15-17,01.11.2023.,01.12.2023.
+Raf03 (u),IT servis menadzment,V,Pilipovic Dragoljub,3s2,PON,14:15-15,01.11.2023.,01.12.2023.
+Raf07 (u),Uvod u softversko inzenjerstvo,V,Prvulovic Petar,3s2,SRE,15:15-18,01.11.2023.,01.12.2023.
+Raf05 (u),C# programiranje,PiV,Milosavljevic Milos,3s2,UTO,09:15-12,01.11.2023.,01.12.2023.
+Raf05 (u),C# programiranje,PiV,Milosavljevic Milos,3s2,UTO,12:15-15,01.11.2023.,01.12.2023.
+Raf05 (u),SQL programiranje,PiV,Popovic Snezana,3s2,?ET,18:15-21,01.11.2023.,01.12.2023.
+Raf05 (u),SQL programiranje,PiV,Popovic Snezana,3s2,?ET,15:15-18,01.11.2023.,01.12.2023.
+Raf08 (a),Skladista podataka,P,Popovic Snezana,401,SRE,15:15-17,01.11.2023.,01.12.2023.
+Raf03 (u),Skladista podataka,V,Radenkovic Milos,401,PON,09:15-11,01.11.2023.,01.12.2023.
+Rg04 (u),Veliki podaci,V,Najdic Jefimija,401,?ET,15:15-17,01.11.2023.,01.12.2023.
+Kolarac3,Kombinatorika i teorija grafova,P,Jovanovic Irena,"401, 402a, 402b, 403, 404, 405, 406",SRE,11:15-13,01.11.2023.,01.12.2023.
+Kolarac3,Kombinatorika i teorija grafova,V,Jeremic Adrijana,"401, 402a, 402b, 403, 404, 405, 406",UTO,15:15-17,01.11.2023.,01.12.2023.
+Kolarac2,Napredno veb programiranje,P,Vidakovic Milan,"401, 402a, 402b, 404, 405, 406, 422, 423",PON,13:15-15,01.11.2023.,01.12.2023.
+Raf08 (a),Upravljanje projektima,P,Vujosevic Dusan,"401, 402a, 402b, 405",UTO,13:15-15,01.11.2023.,01.12.2023.
+Raf21 (a),Veliki podaci,P,Radenkovic Milos,"401, 402a, 402b, 406, 423",PON,11:15-13,01.11.2023.,01.12.2023.
+Raf03 (u),Upravljanje projektima,V,Jeremic Adrijana,"401, 404",?ET,17:15-19,01.11.2023.,01.12.2023.
+Raf07 (u),Napredno veb programiranje,V,Redzic Nikola Jovan,"401, 405",?ET,13:15-15,01.11.2023.,01.12.2023.
+Kolarac2,Multimedijalni informacioni sistemi,P,Vujosevic Dusan,"402a, 402b, 404, 405",SRE,09:15-11,01.11.2023.,01.12.2023.
+Raf14 (MD),Multimedijalni informacioni sistemi,V,Topuzovic Filip,"402a, 404",?ET,09:15-11,01.11.2023.,01.12.2023.
+Raf03 (u),Upravljanje projektima,V,Jeremic Adrijana,"402a, 405",?ET,15:15-17,01.11.2023.,01.12.2023.
+Raf02 (u),Veliki podaci,V,Najdic Jefimija,"402a, 406",?ET,11:15-13,01.11.2023.,01.12.2023.
+Raf05 (u),Napredno veb programiranje,V,Antic Stefan,"402a, 406, 404",PET,17:15-19,01.11.2023.,01.12.2023.
+Raf14 (MD),Multimedijalni informacioni sistemi,V,Topuzovic Filip,"402b, 405",?ET,11:15-13,01.11.2023.,01.12.2023.
+Raf03 (u),Upravljanje projektima,V,Jeremic Adrijana,"402b, 406",PON,17:15-19,01.11.2023.,01.12.2023.
+Rg07 (u),Napredno veb programiranje,V,Antic Stefan,"402b, 422, 423",PET,19:15-21,01.11.2023.,01.12.2023.
+Raf02 (u),Veliki podaci,V,Najdic Jefimija,"402b, 423",PET,16:15-18,01.11.2023.,01.12.2023.
+Raf08 (a),Kvantno racunarstvo,P,Radovanovic Aleksandar,403,PET,15:15-17,01.11.2023.,01.12.2023.
+Rg02 (u),Kvantno racunarstvo,V,Matovic Vanja,403,?ET,17:15-19,01.11.2023.,01.12.2023.
+Raf10 (a),Prepoznavanje govora,P,Stanojevic Mladen,403,PET,17:15-19,01.11.2023.,01.12.2023.
+Rg07 (u),Prepoznavanje govora,V,Petrovic Relja,403,SRE,09:15-11,01.11.2023.,01.12.2023.
+Raf21 (a),Upravljanje projektima,P,Vujosevic Dusan,"403, 404, 421, 422, 423, 406",?ET,15:15-17,01.11.2023.,01.12.2023.
+Raf21 (a),Duboko ucenje,P,Ilic Nemanja,"403, 405",?ET,09:15-11,01.11.2023.,01.12.2023.
+Rg07 (u),Duboko ucenje,V,Bojic Milan,"403, 405",PON,09:15-11,01.11.2023.,01.12.2023.
+Raf05 (u),Upravljanje projektima,V,Jeremic Adrijana,"403, 423",PET,13:15-15,01.11.2023.,01.12.2023.
+Raf04 (u),Modelovanje i simulacija,P,Maric Nevena,"404, 406",PET,12:15-14,01.11.2023.,01.12.2023.
+Raf01 (u),Modelovanje i simulacija,V,Maric Nevena,"404, 406",PET,14:15-16,01.11.2023.,01.12.2023.
+CET,Racunarske mreze velikih sistema,P,Radivojevic Mirjana,421,PET,09:15-11,01.11.2023.,01.12.2023.
+CET,Racunarske mreze velikih sistema,V,Radivojevic Mirjana,421,PET,11:15-13,01.11.2023.,01.12.2023.
+Raf09 (a),Uvod u robotiku,P,Jovanovic Milos,421,SRE,16:15-18,01.11.2023.,01.12.2023.
+Rg07 (u),Uvod u robotiku,V,Jovanovic Milos,421,?ET,17:15-19,01.11.2023.,01.12.2023.
+Raf05 (u),Upravljanje projektima,V,Jeremic Adrijana,"421, 422",PON,15:15-17,01.11.2023.,01.12.2023.
+Raf10 (a),Data centar infrastruktura,P,Martic Goran,"421, 422",UTO,18:15-20,01.11.2023.,01.12.2023.
+Raf07 (u),Data centar infrastruktura,V,Preocanin Andjela,"421, 422",UTO,16:15-18,01.11.2023.,01.12.2023.
+Raf08 (a),Bezicne i mobilne komunikacije,P,Vukotic Selena,"421, 422, 423",SRE,18:15-21,01.11.2023.,01.12.2023.
+Raf10 (a),Mikroservisne aplikacije,P,Dimic Surla Bojana,"422, 423",SRE,14:15-16,01.11.2023.,01.12.2023.
+Raf01 (u),Mikroservisne aplikacije,V,Redzic Nikola Jovan,"422, 423",SRE,16:15-18,01.11.2023.,01.12.2023.
+Raf06 (a),Bezicne i mobilne komunikacije,V,Lukic Djordje,"422, 423, 421",?ET,19:15-21,01.11.2023.,01.12.2023.
+Raf16 (MD),Animirana grafika,P,Djuric Milan,4d1,?ET,14:15-17,01.11.2023.,01.12.2023.
+Raf16 (MD),Animirana grafika,V,Koturanovic Aleksandar,4d1,PET,13:15-16,01.11.2023.,01.12.2023.
+Raf16 (MD),Digitalna slika,P,Spasic Nikola,4d1,PON,11:15-14,01.11.2023.,01.12.2023.
+Raf16 (MD),Digitalna slika,V,Stetin Darko,4d1,SRE,18:15-21,01.11.2023.,01.12.2023.
+Raf16 (MD),Uvod u 3D animaciju,P,Rubil Goran,4d1,PET,10:15-12,01.11.2023.,01.12.2023.
+Raf16 (MD),Uvod u 3D animaciju,V,Rubil Goran,4d1,PON,09:15-11,01.11.2023.,01.12.2023.
+Raf15 (MD),Poetika digitalne umetnosti,P,Stankovic Maja,"4d1, 4d3",?ET,18:15-21,01.11.2023.,01.12.2023.
+Raf15 (MD),Poetika digitalne umetnosti,V,Malesevic Novak,"4d1, 4d3",SRE,15:15-18,01.11.2023.,01.12.2023.
+Raf13 (MD),Poetika fotografske umetnosti,V,Jeremic Lana,4d2,?ET,14:15-17,01.11.2023.,01.12.2023.
+Raf14 (MD),Postprodukcija,P,Spasic Nikola,4d2,PON,17:15-20,01.11.2023.,01.12.2023.
+Raf14 (MD),Postprodukcija,V,Stetin Darko,4d2,SRE,15:15-18,01.11.2023.,01.12.2023.
+Raf14 (MD),Animirana grafika,P,Djuric Milan,"4d2, 4d3",PET,15:15-18,01.11.2023.,01.12.2023.
+Raf14 (MD),Animirana grafika,V,Koturanovic Aleksandar,"4d2, 4d3",PET,18:15-21,01.11.2023.,01.12.2023.
+Raf14 (MD),Uvod u 3D animaciju,P,Rubil Goran,"4d2, 4d3",SRE,18:15-20,01.11.2023.,01.12.2023.
+Raf14 (MD),Uvod u 3D animaciju,V,Rubil Goran,"4d2, 4d3",UTO,09:15-11,01.11.2023.,01.12.2023.
+Raf13 (MD),Poetika fotografske umetnosti,P,Malesevic Nenad,"4d2, 4d3",UTO,12:15-15,01.11.2023.,01.12.2023.
+Raf13 (MD),Poetika fotografske umetnosti,V,Jeremic Lana,4d3,SRE,12:15-15,01.11.2023.,01.12.2023.
+Raf07 (u),MFC,P,ZZ RG,MFC,PON,18:15-21,01.11.2023.,01.12.2023.
+Raf07 (u),MFC,P,ZZ RG,MFC,UTO,18:15-21,01.11.2023.,01.12.2023.
+Raf07 (u),MFC,P,ZZ RG,MFC,SRE,18:15-21,01.11.2023.,01.12.2023.
+Raf07 (u),MFC,P,ZZ RG,MFC,PET,18:15-21,01.11.2023.,01.12.2023.
+Raf08 (a),Kombinatorika i teorija grafova,P,Mladenovic Marko,Ponovci,UTO,17:15-19,01.11.2023.,01.12.2023.
+Raf10 (a),Kombinatorika i teorija grafova,V,Mladenovic Marko,Ponovci,?ET,18:15-20,01.11.2023.,01.12.2023.
+Rg01 (u),ZZ RG 01,P,ZZ RG,RG,PON,09:15-16,01.11.2023.,01.12.2023.
+Rg01 (u),ZZ RG 01,P,ZZ RG,RG,UTO,09:15-16,01.11.2023.,01.12.2023.
+Rg01 (u),ZZ RG 01,P,ZZ RG,RG,SRE,09:15-16,01.11.2023.,01.12.2023.
+Rg01 (u),ZZ RG 01,P,ZZ RG,RG,?ET,09:15-16,01.11.2023.,01.12.2023.
+Rg01 (u),ZZ RG 01,P,ZZ RG,RG,PET,09:15-16,01.11.2023.,01.12.2023.
+Rg02 (u),ZZ RG02,P,ZZ RG,RG,PON,09:15-16,01.11.2023.,01.12.2023.
+Rg02 (u),ZZ RG02,P,ZZ RG,RG,UTO,09:15-16,01.11.2023.,01.12.2023.
+Rg02 (u),ZZ RG02,P,ZZ RG,RG,SRE,09:15-16,01.11.2023.,01.12.2023.
+Rg02 (u),ZZ RG02,P,ZZ RG,RG,?ET,09:15-15,01.11.2023.,01.12.2023.
+Rg02 (u),ZZ RG02,P,ZZ RG,RG,PET,09:15-16,01.11.2023.,01.12.2023.
+Rg06 (u),ZZ RG 06,P,ZZ RG,RG,PON,09:15-13,01.11.2023.,01.12.2023.
+Rg06 (u),ZZ RG 06,P,ZZ RG,RG,UTO,09:15-16,01.11.2023.,01.12.2023.
+Rg06 (u),ZZ RG 06,P,ZZ RG,RG,SRE,09:15-16,01.11.2023.,01.12.2023.
+Rg06 (u),ZZ RG 06,P,ZZ RG,RG,?ET,09:15-16,01.11.2023.,01.12.2023.
+Rg06 (u),ZZ RG 06,P,ZZ RG,RG,PET,09:15-16,01.11.2023.,01.12.2023.
+Raf06 (a),ZZ RAF 6,P,ZZ RG,RG,PON,09:15-16,01.11.2023.,01.12.2023.
+Raf06 (a),ZZ RAF 6,P,ZZ RG,RG,UTO,09:15-14,01.11.2023.,01.12.2023.
+Raf06 (a),ZZ RAF 6,P,ZZ RG,RG,SRE,09:15-16,01.11.2023.,01.12.2023.
+Raf06 (a),ZZ RAF 6,P,ZZ RG,RG,?ET,09:15-14,01.11.2023.,01.12.2023.
+Raf06 (a),ZZ RAF 6,P,ZZ RG,RG,PET,09:15-16,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,PON,09:15-19,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,PON,19:15-21,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,UTO,09:15-19,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,UTO,19:15-21,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,SRE,09:15-19,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,SRE,19:15-21,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,?ET,18:15-21,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,PET,09:15-19,01.11.2023.,01.12.2023.
+Kolarac1,ZZ K1,P,ZZ RG,RG,PET,19:15-21,01.11.2023.,01.12.2023.
+Kolarac2,ZZ K2,P,ZZ RG,RG,PON,18:15-21,01.11.2023.,01.12.2023.
+Kolarac2,ZZ K2,P,ZZ RG,RG,UTO,09:15-19,01.11.2023.,01.12.2023.
+Kolarac2,ZZ K2,P,ZZ RG,RG,UTO,19:15-21,01.11.2023.,01.12.2023.
+Kolarac2,ZZ K2,P,ZZ RG,RG,SRE,18:15-21,01.11.2023.,01.12.2023.
+Kolarac2,ZZ K2,P,ZZ RG,RG,?ET,09:15-19,01.11.2023.,01.12.2023.
+Kolarac2,ZZ K2,P,ZZ RG,RG,?ET,19:15-21,01.11.2023.,01.12.2023.
+Kolarac2,ZZ K2,P,ZZ RG,RG,PET,09:15-19,01.11.2023.,01.12.2023.
+Kolarac2,ZZ K2,P,ZZ RG,RG,PET,19:15-21,01.11.2023.,01.12.2023.
+Kolarac3,ZZ K3,P,ZZ RG,RG,PON,19:15-21,01.11.2023.,01.12.2023.
+Kolarac3,ZZ K3,P,ZZ RG,RG,UTO,20:15-21,01.11.2023.,01.12.2023.
+Kolarac3,ZZ K3,P,ZZ RG,RG,SRE,19:15-21,01.11.2023.,01.12.2023.
+Kolarac3,ZZ K3,P,ZZ RG,RG,?ET,19:15-21,01.11.2023.,01.12.2023.
+Kolarac3,ZZ K3,P,ZZ RG,RG,PET,19:15-21,01.11.2023.,01.12.2023.
+Raf11 (a),ZZ Raf 11,P,ZZ RG,RG,PON,09:15-14,01.11.2023.,01.12.2023.
+Raf11 (a),ZZ Raf 11,P,ZZ RG,RG,UTO,09:15-14,01.11.2023.,01.12.2023.
+Raf11 (a),ZZ Raf 11,P,ZZ RG,RG,SRE,09:15-14,01.11.2023.,01.12.2023.
+Raf11 (a),ZZ Raf 11,P,ZZ RG,RG,?ET,09:15-14,01.11.2023.,01.12.2023.
+Raf11 (a),ZZ Raf 11,P,ZZ RG,RG,PET,09:15-14,01.11.2023.,01.12.2023.
+Raf10 (a),ZZ Raf 10,P,ZZ RG,RG,PON,09:15-14,01.11.2023.,01.12.2023.
+Raf10 (a),ZZ Raf 10,P,ZZ RG,RG,UTO,09:15-13,01.11.2023.,01.12.2023.
+Raf10 (a),ZZ Raf 10,P,ZZ RG,RG,SRE,09:15-14,01.11.2023.,01.12.2023.
+Raf10 (a),ZZ Raf 10,P,ZZ RG,RG,?ET,09:15-14,01.11.2023.,01.12.2023.
+Raf10 (a),ZZ Raf 10,P,ZZ RG,RG,PET,09:15-14,01.11.2023.,01.12.2023.
+Raf08 (a),ZZ Raf 08,P,ZZ RG,RG,PON,09:15-15,01.11.2023.,01.12.2023.
+Raf08 (a),ZZ Raf 08,P,ZZ RG,RG,UTO,09:15-13,01.11.2023.,01.12.2023.
+Raf08 (a),ZZ Raf 08,P,ZZ RG,RG,SRE,09:15-15,01.11.2023.,01.12.2023.
+Raf08 (a),ZZ Raf 08,P,ZZ RG,RG,?ET,09:15-15,01.11.2023.,01.12.2023.
+Raf08 (a),ZZ Raf 08,P,ZZ RG,RG,PET,09:15-15,01.11.2023.,01.12.2023.
+Raf19 (a),ZZ Raf 19,P,ZZ RG,RG,PON,09:15-14,01.11.2023.,01.12.2023.
+Raf19 (a),ZZ Raf 19,P,ZZ RG,RG,UTO,09:15-14,01.11.2023.,01.12.2023.
+Raf19 (a),ZZ Raf 19,P,ZZ RG,RG,SRE,09:15-14,01.01.2024.,20.01.2024.
+Raf19 (a),ZZ Raf 19,P,ZZ RG,RG,?ET,09:15-14,01.01.2024.,20.01.2024.
+Raf19 (a),ZZ Raf 19,P,ZZ RG,RG,PET,09:15-14,01.01.2024.,20.01.2024.
+Rg04 (u),ZZ RG 4,P,ZZ RG,RG,PON,09:15-16,01.01.2024.,20.01.2024.
+Rg04 (u),ZZ RG 4,P,ZZ RG,RG,UTO,09:15-16,01.01.2024.,20.01.2024.
+Rg04 (u),ZZ RG 4,P,ZZ RG,RG,SRE,09:15-16,01.01.2024.,20.01.2024.
+Rg04 (u),ZZ RG 4,P,ZZ RG,RG,?ET,09:15-15,01.01.2024.,20.01.2024.
+Rg04 (u),ZZ RG 4,P,ZZ RG,RG,PET,09:15-16,01.01.2024.,20.01.2024.
+Raf09 (a),ZZ Raf 9,P,ZZ RG,RG,PON,09:15-16,01.01.2024.,20.01.2024.
+Raf09 (a),ZZ Raf 9,P,ZZ RG,RG,UTO,8:15-14,01.01.2024.,20.01.2024.
+Raf09 (a),ZZ Raf 9,P,ZZ RG,RG,SRE,09:15-14,01.01.2024.,20.01.2024.
+Raf09 (a),ZZ Raf 9,P,ZZ RG,RG,?ET,09:15-14,01.01.2024.,20.01.2024.
+Raf09 (a),ZZ Raf 9,P,ZZ RG,RG,PET,09:15-16,01.01.2024.,20.01.2024.
+Raf18 (a),ZZ Raf 18,P,ZZ RG,RG,PON,09:15-14,01.01.2024.,20.01.2024.
+Raf18 (a),ZZ Raf 18,P,ZZ RG,RG,UTO,09:15-14,01.01.2024.,20.01.2024.
+Raf18 (a),ZZ Raf 18,P,ZZ RG,RG,SRE,09:15-14,01.01.2024.,20.01.2024.
+Raf18 (a),ZZ Raf 18,P,ZZ RG,RG,?ET,09:15-14,01.01.2024.,20.01.2024.
+Raf18 (a),ZZ Raf 18,P,ZZ RG,RG,PET,09:15-14,01.01.2024.,20.01.2024.
